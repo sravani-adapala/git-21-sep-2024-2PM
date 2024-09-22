@@ -8,5 +8,8 @@ public class app {
         System.out.println(" devlop 1");
 
         System.out.println(" hello ");
+
+        System.out.println(" stash & unstash ");
+        System.out.println(" world ");
     }
 }
